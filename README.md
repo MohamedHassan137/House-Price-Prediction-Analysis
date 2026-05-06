@@ -7,22 +7,22 @@ It allows users to load a dataset, clean it, and apply multiple regression model
 
 # Features
 
-* 📂 Easy dataset loading (CSV format)
-* 🧹 Data preprocessing:
+*  Easy dataset loading (CSV format)
+*  Data preprocessing:
 
   * Handling missing values
   * Removing outliers using IQR method
-* 🤖 Apply multiple regression models:
+*  Apply multiple regression models:
 
   * Linear Regression
   * Lasso Regression
   * Ridge Regression
-* 📊 Model evaluation using:
+*  Model evaluation using:
 
   * Mean Squared Error (MSE)
   * Mean Absolute Error (MAE)
-* 📈 Visualization of actual vs predicted values
-* 🖥️ Simple and user-friendly GUI using Tkinter
+*  Visualization of actual vs predicted values
+*  Simple and user-friendly GUI using Tkinter
 
 ---
 
@@ -57,7 +57,7 @@ The dataset should include the following columns:
 
 # Technologies Used
 
-* Python 🐍
+* Python 
 * Pandas
 * NumPy
 * Scikit-learn
